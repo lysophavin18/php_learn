@@ -13,5 +13,6 @@ echo $class;
 echo $number1 + $number2; // calculate like math +
 echo $number1 / $number2; //   
 echo $number1 - $number2;
-echo $number1 * $number2;
+echo $number1 * $number2; //
+
 echo $number1 % $number2;
