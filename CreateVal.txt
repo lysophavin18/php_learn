@@ -1,0 +1,14 @@
+
+
+               This section we will detail how to create varraible in php.
+
+In PHP, a variable starts with the $ sign, followed by the name of the variable:
+
+$name val = "Myname";
+$number = 10;
+
+if you show variable in php Let's me show you like this 
+
+
+$txt = "W3Schools.com";
+echo "I love $txt!";
