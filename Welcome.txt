@@ -28,3 +28,7 @@ command line to run a file php
 Please enjoy and run with this course .
 
 file my code in index.php to get start with php .
+
+
+remember if you use the single quote ''  the result will dislay all what kind in your code .
+if you use double quote "" the result will display the Result like result 

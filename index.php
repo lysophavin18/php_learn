@@ -18,8 +18,10 @@
 <body>
     <h1>
         <?php
+
+        $name = "sophavin";
         $color = "red";
-        echo "You Won 10$";
+        echo "You Won 10$" . "-" . $name;
         ?>
     </h1>
 
